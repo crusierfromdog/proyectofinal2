@@ -1,4 +1,4 @@
-const React = require('react')
+const React = require('react');
 const Axios = require('axios').default;
 
 const Cart = ({ id, productId, quantity }) => {
